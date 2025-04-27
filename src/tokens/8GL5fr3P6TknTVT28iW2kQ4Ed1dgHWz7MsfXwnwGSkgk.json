@@ -1,0 +1,19 @@
+{
+  "chainId": 101,
+  "address": "8GL5fr3P6TknTVT28iW2kQ4Ed1dgHWz7MsfXwnwGSkgk",
+  "symbol": "MANNA",
+  "name": "MANNA",
+  "decimals": 9,
+  "logoURI": "https://gateway.pinata.cloud/ipfs/bafybeihz7llxlzfsdzi3xluqmczwszzhu6qfngixmq74ljdtmrsnlq2eza",
+  "tags": [
+    "utility-token",
+    "community",
+    "solana"
+  ],
+  "extensions": {
+    "website": "https://don8288.github.io/manna/",
+    "twitter": "https://x.com/mannacoin2025",
+    "telegram": "https://t.me/mannacoinn",
+    "description": "MANNA is the token of new beginnings, designed to fuel innovation, community spirit, and limitless opportunities in the decentralized world."
+  }
+}
